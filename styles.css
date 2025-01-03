@@ -87,6 +87,23 @@ button:hover {
     margin-bottom: 1.5rem;
 }
 
+.lyrics-container {
+    max-height: 200px;
+    overflow-y: auto;
+    margin: 1rem 0;
+    padding: 1rem;
+    background-color: #f8f8f8;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.lyrics {
+    white-space: pre-line;
+    line-height: 1.6;
+    font-size: 0.9rem;
+    color: #333;
+}
+
 .playlist {
     text-align: left;
     max-width: 300px;
