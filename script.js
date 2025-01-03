@@ -2,7 +2,7 @@ class MusicPlayer {
     constructor() {
         this.songs = [
             { 
-                title: 'Good Vibes Only', 
+                title: 'Good Vibes Only(Austin Groth)', 
                 file: 'music/Good Vibes Only.mp3',
                 lyrics: `[Verse 1]
 He’s the legend at LP, got that magic in his hands
@@ -57,7 +57,7 @@ So keep spreadin’ those good vibes, keep livin’ that dream
 Austin Groth, you’re the realest, the top of our team.`
             },
             { 
-                title: 'The launch life', 
+                title: 'The launch life(Thomas Tyler)', 
                 file: 'music/The launch life.mp3',
                 lyrics: `[Verse 1]
 There’s someone we all know, movin’ fast and ridin’ high
@@ -90,7 +90,7 @@ Got Blitzen in the back seat, a big ol’ wagging tail
 Welcome to this sitcom—where good times never fail!`
             },
             { 
-                title: 'One Team, One Groove', 
+                title: 'One Team, One Groove(Matt Galvin)', 
                 file: 'music/One Team, One Groove.mp3',
                 lyrics: `[Verse 1]
 In the morning light, there’s a leader we know
@@ -133,7 +133,7 @@ One team, one groove—let the good times roll
 He’s our reggae champion with a heart of gold.`
             },
             { 
-                title: 'Revenue Hours', 
+                title: 'Revenue Hours(Michael Faria)', 
                 file: 'music/Revenue Hours.mp3',
                 lyrics: `[Verse 1]
 He’s a Houston kid with a bulldog grin
@@ -198,7 +198,7 @@ From Houston roots to coastal dreams
 A punk rock hustle, bustin’ at the seams!`
             },
             { 
-                title: 'Zachs Midwest Heart', 
+                title: 'Zachs Midwest Heart(Zach Brzezinski)', 
                 file: 'music/Zach Midwest Heart.mp3',
                 lyrics: `[Verse 1]
 He’s a Wisconsin boy, a Green Bay dream,
@@ -247,7 +247,7 @@ From Wisconsin to Austin, you’re still Packin’ pride,
 Celebrate those deals—‘cause this country boy’s ride or die!`
             },
             {
-              title: 'Disco Witch & The Punk Rock Spell',
+              title: 'Disco Witch & The Punk Rock Spell(Kat Korpi)',
               file: 'music/Disco Witch & The Punk Rock Spell.mp3',
               lyrics: `[Verse 1]
 She’s a Capricorn queen, a Sunday star in bloom
@@ -292,7 +292,7 @@ Strummin’ power chords under shimmering lights
 Kat Korpi, disco witch—blazin’ through the night!`
             },
             {
-              title: 'Nomad\'s Code',
+              title: 'Nomad\'s Code(Thu Trinh)',
               file: 'music/Nomad Code.mp3',
               lyrics: `[Verse 1]
 She’s drifting like a wanderer, a map without lines
@@ -335,6 +335,154 @@ Nomad on the horizon, wander where you will
 We know your mark remains, coding magic still
 Thu Trinh, your spirit breathes new life in every place
 We’ll follow in your footsteps, inspired by your grace.`
+            }, 
+            {
+                title: 'Flower in the City(Flora Carvajal)',
+                file: 'music/Flower in the City.mp3',
+                lyrics: `[Verse 1]
+She came from Colombia, found her home in D.C.
+Left that tropical sunshine for bright city scenes
+But she’s still glowin’ like a summer sunrise
+Her name means Flower, and it suits her just right
+
+[Pre-Chorus]
+When the world turns crazy, she’s steady on her feet
+Kindness overflows, watch her calm any heat
+When you need a friend or a shoulder to cry
+She’ll be there in a heartbeat—no question why
+
+[Chorus]
+She’s our Flower in the city, blooming every day
+If a storm’s rollin’ in, she’ll find a way
+A Swiss Army Knife of heart and skill
+No matter the problem, she’s ready to fill
+Behind every seamless scene, it’s her gentle power
+Flora, Flower—keepin’ us steady hour by hour
+
+[Verse 2]
+She orchestrates All Hands, reviews, and more
+Like magic in motion, you’ll never see the floor
+Her warmth’s contagious, every smile lights a spark
+In a high-pressure world, she’s the glow in the dark
+
+[Bridge]
+She’ll never let you down, she’s got your back
+When obstacles loom, she keeps us on track
+The friend that you call, who just somehow knows
+To help fix every puzzle wherever she goes
+
+[Chorus]
+She’s our Flower in the city, blooming every day
+If a storm’s rollin’ in, she’ll find a way
+A Swiss Army Knife of heart and skill
+No matter the problem, she’s ready to fill
+Behind every seamless scene, it’s her gentle power
+Flora, Flower—keepin’ us steady hour by hour
+
+[Outro]
+Flora, Flower, blossomin’ so bright
+From Colombia’s warmth to D.C.’s city lights
+Her kindness is boundless, her spirit takes flight
+We cherish this Flower that makes our world right.`
+            },
+            {
+                title: 'Soul on the Run(Ho Yin Cheung)',
+                file: 'music/Soul on the Run.mp3',
+                lyrics: `[Verse 1]
+He ran the bay in 3:37, feet on fire in San Fran streets
+A marathon finish, soul so strong, that’s a personal feat
+He’s got a style that’s timeless, jeans, white socks, and loafers on
+Like The Rock in a tailored suit, strutting ‘til the break of dawn
+
+[Pre-Chorus]
+When he steps into the room, there’s a light that follows close
+A gentle heart, a guiding hand—everyone knows
+He’ll break down the hardest math or code in a way that just feels right
+No question left unanswered, yeah, he keeps it locked down tight
+
+[Chorus]
+Ho Yin got that soul, puttin’ magic in the air
+With a smile so bright, he’s always ready to share
+He’s the friend, he’s the guide, he’s the groove we rely on
+From spreadsheets to rap breaks, he keeps our spirits strong
+
+[Verse 2]
+Five whole minutes of hip-hop lore, he laid it down real smooth
+He took us from the block to the mic drop—baby, that’s the truth
+Excel wizardry at his fingertips, never once touching a mouse
+He’s conjuring data magic, turnin’ questions inside out
+
+[Pre-Chorus]
+But behind that brilliance is a kindness deep and wide
+Every day he shows the world that heart he just can’t hide
+Need some help, he’s on the way—like sunshine on a cloudy day
+Ho Yin lifts us up, come what may
+
+[Chorus]
+Ho Yin got that soul, puttin’ magic in the air
+With a smile so bright, he’s always ready to share
+He’s the friend, he’s the guide, he’s the groove we rely on
+From spreadsheets to rap breaks, he keeps our spirits strong
+
+[Bridge]
+He runs with grace, he solves with ease
+He’ll teach you things you never believed
+A champion of kindness, unstoppable force
+We stand in awe, stay on this course
+
+[Final Chorus]
+Ho Yin got that soul, puttin’ magic in the air
+With a smile so bright, he’s always ready to share
+He’s the friend, he’s the guide, he’s the groove we rely on
+From marathons to data sheets, he keeps our spirits strong
+
+(Outro)
+Oh, Ho Yin’s got that soul, yeah…`
+            }, 
+            {
+                title: 'Star Signs & Swift Vibes(Kris Bonaguro)',
+                file: 'music/Star Signs & Swift Vibes.mp3',
+                lyrics: `[Verse 1]
+She’s livin’ that CO life with a puppy by her side
+Sharin’ her birthday with T. Swift—hey, that’s quite a ride
+She can tell you any celeb’s sign, from Aries to Pisces
+And if you look around her place, she’s paintin’ magic on the daily
+
+[Pre-Chorus]
+From the mountains to the stage, she’s got that golden glow
+Stars align when she’s around, you feel it head to toe
+
+[Chorus]
+She’s a pop star in her own right, shinin’ bright tonight
+When the zodiac calls, she can name it on sight
+Murals on the walls, color dreams come alive
+Kris is keepin’ us enchanted with that T. Swift vibe
+Yeah, she’s got that T. Swift vibe
+
+[Verse 2]
+Late nights with that puppy, she’s hummin’ a tune
+Mind full of birthdays, memories light up the room
+Art flows like a rainbow from her brush to the sky
+It’s a brand-new mural—her imagination’s on the rise
+
+[Bridge]
+Colorado stars, a sky so bright
+Kris weaves melodies through zodiac signs at night
+She’s readin’ every chart, she’s paintin’ every scene
+A pop star soul, livin’ out those dreamy things
+
+[Chorus]
+She’s a pop star in her own right, shinin’ bright tonight
+When the zodiac calls, she can name it on sight
+Murals on the walls, color dreams come alive
+Kris is keepin’ us enchanted with that T. Swift vibe
+Yeah, she’s got that T. Swift vibe
+
+[Outro]
+She’s got the heart of a poet, puppy love in her eyes
+Celebratin’ life, let’s turn the volume high
+A star among the mountains, forever free
+Kris, you’re the pop star we all love to see.`
             }
         ];
         this.currentSongIndex = 0;
