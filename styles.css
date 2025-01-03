@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.record-player {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto 2rem;
+    position: relative;
+}
+
+.record {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: #333;
+    position: relative;
+    transition: transform 0.5s ease;
+}
+
+.record.spinning {
+    animation: spin 2s linear infinite;
+}
+
+.record-label {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    background-image: url('assets/cover.jpg');
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.controls {
+    margin-bottom: 1.5rem;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    margin: 0 0.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.song-info {
+    margin-bottom: 1.5rem;
+}
+
+.playlist {
+    text-align: left;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.playlist h3 {
+    margin-bottom: 1rem;
+}
+
+#songList {
+    list-style: none;
+}
+
+#songList li {
+    padding: 0.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#songList li:hover {
+    background-color: #f0f0f0;
+}
+
+#songList li.active {
+    background-color: #e0e0e0;
+    font-weight: bold;
+} 
